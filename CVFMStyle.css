@@ -148,7 +148,8 @@ a.edit-btn:hover {
 .action-buttons {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 10px;
+	gap: 0px;
+	margin-right: 5px;
 	justify-content: flex-end;
 }
 
